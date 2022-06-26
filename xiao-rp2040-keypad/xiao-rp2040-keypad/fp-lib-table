@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SJ2-35853A-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ2-35853A-SMT-TR")(options "")(descr ""))
+  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/XIAO.pretty")(options "")(descr ""))
+)

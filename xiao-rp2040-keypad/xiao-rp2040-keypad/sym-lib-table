@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "SJ2-35853A-SMT-TR")(type "Legacy")(uri "C:/Users/drew/Documents/GitHub/xiao-keypad/xiao-rp2040-keypad/SJ2-35853A-SMT-TR/SJ2-35853A-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "KiCad")(uri "C:/Users/drew/Documents/GitHub/kicad-libraries/Seeeduino XIAO KICAD/Seeeduino XIAO.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ2-35853A-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ2-35853A-SMT-TR/SJ2-35853A-SMT-TR.kicad_sym")(options "")(descr ""))
 )
