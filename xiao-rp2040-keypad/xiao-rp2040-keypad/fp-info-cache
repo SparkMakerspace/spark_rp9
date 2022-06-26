@@ -1,4 +1,4 @@
-20438688983393434
+20445313997545901
 74HC1G125GV
 SOT95P275X110-5N
 SOT753
@@ -80289,6 +80289,13 @@ CUI_SJ2-35853A-SMT-TR
 0
 3
 3
+Seeeduino XIAO KICAD
+Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM
+
+
+0
+20
+20
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -87233,3 +87240,24 @@ kb2040
 0
 26
 20
+spark
+LED_RGB_5050-6
+http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
+RGB LED 5050-6
+0
+6
+6
+spark
+spark_electronics_r1_logo
+
+
+0
+0
+0
+spark
+spark_electronics_r1_logo_58mm
+
+
+0
+0
+0
