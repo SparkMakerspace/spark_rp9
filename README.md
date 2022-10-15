@@ -1,4 +1,4 @@
-# 9key (xiao-keypad)
+# Spark RP9 (xiao-keypad)
 
 The **9key** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. 
 
