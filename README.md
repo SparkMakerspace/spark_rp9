@@ -1,11 +1,5 @@
----
-layout: page
-title: 9key
-permalink: /index.html
----
-
 # Spark RP9 (xiao-keypad)
-
+[Github Link](https://github.com/sparkmakerspace/spark_rp9)
 The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. 
 
 **The problem:** most entry-level soldering kits are not useful following
