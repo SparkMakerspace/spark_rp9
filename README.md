@@ -1,6 +1,17 @@
 # Spark RP9 (xiao-keypad)
-[Github Link](https://github.com/sparkmakerspace/spark_rp9)
-The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. 
+[Github Hardware Link](https://github.com/sparkmakerspace/spark_rp9). [Software is here](https://github.com/SparkMakerspace/spark_rp9_sw)
+The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. Sign up for a class at [Spark Makerspace](https://sparkmakerspace.org]!
+
+##Note:
+This repository contains the hardware design files for the PCB designed in KiCAD. Pull requests are welcome and will be happily reviewed by our team.
+
+##Software
+
+Example firmware for this project is housed in the [spark_rp9_sw repository](https://github.com/SparkMakerspace/spark_rp9_sw).
+
+Reach out to [electronics@sparkmakerspace.org](mailto:electronics@sparkmakerspace.org).
+
+## Design Goals
 
 **The problem:** most entry-level soldering kits are not useful following
 **The solution:** make it a keyboard (macropad). the kids tell us it's what they're into these days.
