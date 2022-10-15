@@ -1,6 +1,6 @@
 # Spark RP9 (xiao-keypad)
 
-The **9key** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. 
+The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. 
 
 **The problem:** most entry-level soldering kits are not useful following
 **The solution:** make it a keyboard (macropad). the kids tell us it's what they're into these days.
