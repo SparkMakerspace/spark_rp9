@@ -1,3 +1,9 @@
+
+---
+layout: page
+title: 9key
+permalink: /
+---
 # Spark RP9 (xiao-keypad)
 
 The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. 
