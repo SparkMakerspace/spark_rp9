@@ -3,6 +3,7 @@ layout: page
 title: 9key
 permalink: /index.html
 ---
+
 # Spark RP9 (xiao-keypad)
 If you took a class using the RP9 Macropad Soldering Kit (fka 9key) PCB, find the [Hardware Github Repository here](https://github.com/sparkmakerspace/spark_rp9) and the [Software Github Repository here](https://github.com/SparkMakerspace/spark_rp9_sw).
 The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. Sign up for a class at [Spark Makerspace](https://sparkmakerspace.org)!
@@ -55,3 +56,6 @@ References:
 The following documents are included in this repository for student reference but are property of their respective authors:
 * [Basics of Digital Multimeters](/basics-of-digital-multimeters.pdf) [IDEAL original source](https://www.idealind.com/content/dam/electrical/assets/TestMeasurement/Multimeters/basics-of-digital-multimeters.pdf)
 * [Adafruit's Guide to Excellent Soldering](/adafruit-guide-excellent-soldering.pdf) [Adafruit original source](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf)
+
+# Deployment Notes
+This repository automatically deploys to [9key.sparkmakerspace.org](https://9key.sparkmakerspace.org), which is hosted on Cloudflare Pages.
