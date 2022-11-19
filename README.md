@@ -1,6 +1,6 @@
 # Spark RP9 (xiao-keypad)
 If you took a class using the RP9 Macropad Soldering Kit (fka 9key) PCB, find the [Hardware Github Repository here](https://github.com/sparkmakerspace/spark_rp9) and the [Software Github Repository here](https://github.com/SparkMakerspace/spark_rp9_sw).
-The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. Sign up for a class at [Spark Makerspace](https://sparkmakerspace.org]!
+The **RP9** was developed by some of the nerds at [Spark Makerpace](https://sparkmakerspace.org) for use in the Electronics & Technology Lab's soldering certification. Sign up for a class at [Spark Makerspace](https://sparkmakerspace.org)!
 
 ##Note:
 This repository contains the hardware design files for the PCB designed in KiCAD. Pull requests are welcome and will be happily reviewed by our team.
