@@ -57,5 +57,9 @@ The following documents are included in this repository for student reference bu
 * [Basics of Digital Multimeters](/basics-of-digital-multimeters.pdf) [IDEAL original source](https://www.idealind.com/content/dam/electrical/assets/TestMeasurement/Multimeters/basics-of-digital-multimeters.pdf)
 * [Adafruit's Guide to Excellent Soldering](/adafruit-guide-excellent-soldering.pdf) [Adafruit original source](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf)
 
+## Firmware Notes
+* Spark's custom firmware for this project can be found at [sparkmakerspace/spark_rp9_sw](https://github.com/sparkmakerspace/spark_rp9_sw), but is fairly limited in functionality.
+* Those looking for more advanced firmware features may consider [KMKfw](https://github.com/KMKfw/kmk_firmware) or [QMK](https://docs.qmk.fm/#/newbs_getting_started), but that is left as an exercise for the reader.
+
 # Deployment Notes
 This repository automatically deploys to [9key.sparkmakerspace.org](https://9key.sparkmakerspace.org), which is hosted on Cloudflare Pages.
